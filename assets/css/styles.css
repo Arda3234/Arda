@@ -1,0 +1,18 @@
+.navbar {
+  background-color: #262623;
+}
+
+.telefonlar .col {
+  height: 624px;
+}
+
+.ip-15 {
+  background-image: url("../../assets/img/promo_iphone15_announce__fmxxi8r9fkuy_large_2x.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+.pf-53 {
+  padding-top: 53px;
+}
+
